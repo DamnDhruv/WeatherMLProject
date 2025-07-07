@@ -48,6 +48,20 @@ We used the OpenWeatherMap API in a script to:
 - **Notebook**: `02_Condition_Classification.ipynb`
 
 ---
+## 📁 Files
 
-### 📁 Project Structure
+| File | Description |
+|------|-------------|
+| `models/temperature_model.pkl` | Trained Linear Regression model |
+| `models/condition_classifier.pkl` | Trained Logistic Regression/Random Forest Classifier |
+| `data/` | Original |
+| `notebooks/01_Temperature_Regression.ipynb` | Regression training notebook |
+| `notebooks/02_Condition_Classification.ipynb` | Classification training notebook |
 
+---
+
+## 💾 How to Run
+
+1. Install dependencies:
+   ```bash
+   pip install -r requirements.txt
