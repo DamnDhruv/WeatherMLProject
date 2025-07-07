@@ -1,0 +1,101 @@
+City,Temprature,Humidity,Pressure,Condition
+New York,30.04,76,1014,broken clouds
+Los Angeles,24.94,56,1015,clear sky
+Chicago,25.14,62,1017,overcast clouds
+Houston,31.87,58,1017,few clouds
+Phoenix,38.55,25,1012,clear sky
+London,20.9,46,1013,broken clouds
+Manchester,18.63,67,1015,clear sky
+Birmingham,32.16,52,1018,few clouds
+Glasgow,16.5,70,1013,scattered clouds
+Liverpool,18.58,70,1015,few clouds
+Toronto,28.05,59,1011,overcast clouds
+Vancouver,22.03,65,1016,scattered clouds
+Montreal,27.66,88,1012,moderate rain
+Calgary,20.52,65,1014,overcast clouds
+Ottawa,21.18,94,1011,overcast clouds
+Sydney,7.93,86,1014,clear sky
+Melbourne,31.61,66,1019,overcast clouds
+Brisbane,9.26,76,1017,clear sky
+Perth,10.59,88,1021,light rain
+Adelaide,17.23,49,1002,light rain
+Paris,18.04,79,1013,overcast clouds
+Marseille,23.25,35,1007,clear sky
+Lyon,19.54,64,1012,light rain
+Toulouse,22.64,71,1015,broken clouds
+Nice,16.29,45,1001,clear sky
+Berlin,21.27,73,1000,overcast clouds
+Munich,17.84,73,1005,extreme rain
+Frankfurt,17.71,85,1006,moderate rain
+Hamburg,17.27,91,1003,light rain
+Cologne,17.81,71,1007,light rain
+Rome,32.94,47,1018,clear sky
+Milan,23.64,62,998,light rain
+Naples,27.3,64,1009,clear sky
+Turin,20.1,61,1000,light rain
+Palermo,29.24,43,1011,clear sky
+Madrid,34.43,21,1008,few clouds
+Barcelona,25.92,66,1010,clear sky
+Valencia,27.24,67,1010,few clouds
+Seville,33.6,35,1007,clear sky
+Zaragoza,24.58,41,1013,clear sky
+Beijing,25.33,71,1005,overcast clouds
+Shanghai,28.37,80,1003,overcast clouds
+Guangzhou,30.6,68,1002,scattered clouds
+Shenzhen,29.83,82,1003,broken clouds
+Chengdu,21.39,92,1001,broken clouds
+Tokyo,27.61,72,1007,overcast clouds
+Osaka,28.14,67,1006,few clouds
+Yokohama,26.22,86,1007,overcast clouds
+Nagoya,27.84,80,1007,moderate rain
+Sapporo,19.82,54,1008,few clouds
+Delhi,32.75,71,1000,broken clouds
+Mumbai,27.51,86,1006,overcast clouds
+Bangalore,22.54,80,1013,overcast clouds
+Hyderabad,24.6,76,1008,overcast clouds
+Chennai,32.9,47,1006,overcast clouds
+Cairo,32.77,34,1008,clear sky
+Alexandria,26.65,61,1009,clear sky
+Giza,31.81,30,1008,clear sky
+Luxor,36.35,8,1004,few clouds
+Aswan,38.68,10,1003,few clouds
+Moscow,24.85,44,1010,overcast clouds
+Saint Petersburg,20.81,74,1001,light rain
+Novosibirsk,15.99,95,1001,broken clouds
+Yekaterinburg,11.37,93,1012,broken clouds
+Kazan,17.38,79,1012,scattered clouds
+São Paulo,20.31,59,1024,clear sky
+Rio de Janeiro,22.37,70,1023,scattered clouds
+Brasília,25.56,28,1019,clear sky
+Salvador,28.86,71,1015,overcast clouds
+Fortaleza,29.57,64,1014,few clouds
+Buenos Aires,14.81,74,1022,broken clouds
+Córdoba,22.72,53,1023,few clouds
+Rosario,21.85,56,1021,overcast clouds
+Mendoza,16.69,36,1022,clear sky
+La Plata,15.97,66,1023,overcast clouds
+Cape Town,12.36,72,1031,few clouds
+Johannesburg,8.82,23,1029,clear sky
+Pretoria,12.98,15,1027,clear sky
+Durban,16.7,52,1032,few clouds
+Bloemfontein,5.98,39,1031,clear sky
+Nairobi,16.9,82,1018,overcast clouds
+Mombasa,24.06,81,1017,scattered clouds
+Kisumu,19.85,82,1016,light rain
+Eldoret,14.96,88,1018,light rain
+Nakuru,16.58,84,1017,light rain
+Istanbul,28.79,76,1007,clear sky
+Ankara,29.29,22,1005,scattered clouds
+Izmir,28.93,30,1006,clear sky
+Bursa,27.19,47,1007,clear sky
+Adana,28.38,71,1004,clear sky
+Seoul,27.48,89,1007,clear sky
+Busan,25.66,79,1007,broken clouds
+Incheon,26.12,98,1007,few clouds
+Daegu,27.19,76,1008,overcast clouds
+Daejeon,27.05,92,1008,clear sky
+Jakarta,27.95,76,1011,moderate rain
+Surabaya,25.56,93,1013,clear sky
+Bandung,26.95,82,1014,overcast clouds
+Medan,23.54,93,1011,overcast clouds
+Bekasi,28.07,78,1011,light rain
